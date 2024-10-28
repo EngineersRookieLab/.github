@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-### Member
+### ☀️ Member
 <table>
  <tr>
     <td align="center"><a href="https://github.com/suna-ji"><img src="https://avatars.githubusercontent.com/suna-ji" width="130px;" alt=""></a></td>
